@@ -1,0 +1,20 @@
+{
+  "name": "18-postgre-auth",
+  "version": "1.0.0",
+  "description": "a simple login and register web app using postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express" : "latest",
+    "pg-promise" : "latest",
+    "body-parser" : "latest",
+    "ejs" : "latest"
+  },
+  "devDependencies": {
+    "nodemon" : "latest"
+  },
+  "author": "kodjaman1",
+  "license": "MIT"
+}

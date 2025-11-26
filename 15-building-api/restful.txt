@@ -1,0 +1,22 @@
+What makes an API RESTful?
+
+1. HTTP methods.
+get
+post
+put
+patch
+delete
+
+2. A standard data format it responds with.
+JSON generally.
+
+3. Client-Server architecture.
+Clients and servers are completely seperate.
+
+4. Stateless
+Each request can be processed without the knowledge
+of the requests/responses before.
+
+5. Resource-based.
+Everything the application interacts with is a resource.
+Resources are identified by URLs

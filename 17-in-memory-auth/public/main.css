@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form button {
+    color: blue;
+}
