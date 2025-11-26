@@ -1,0 +1,16 @@
+{
+  "name": "02-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"SEEELAAAMLAAAR\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kodjaman1",
+  "license": "ISC",
+  "description": "I will use Express for the first time.",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
