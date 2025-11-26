@@ -1,4 +1,3 @@
-// postgres://avnadmin:AVNS_w0uRFB7nQsMDoehL24Z@pg-2e7fdba1-kcmgame04-760e.e.aivencloud.com:25961/defaultdb?sslmode=require
 
 const express = require('express');
 const bodyParser = require('body-parser');
